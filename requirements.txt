@@ -1,0 +1,7 @@
+streamlit
+spacy
+networkx
+pyvis
+pdfplumber
+pandas
+requests
